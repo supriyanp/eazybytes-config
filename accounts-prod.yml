@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local Production supriya account APIs "
+  message: "Welcome to EazyBank accounts related local Production supriya spring cloud bus account APIs "
   contactDetails:
     name: "Sanjana Patil - Prod Lead"
     email: "Sanjana@eazybank.com"
