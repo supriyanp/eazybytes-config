@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local Production supriya web hook account APIs "
+  message: "Welcome to EazyBank accounts related local Production supriya web hook1 account APIs "
   contactDetails:
     name: "Sanjana Patil - Prod Lead"
     email: "Sanjana@eazybank.com"
